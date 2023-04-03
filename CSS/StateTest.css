@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #statePic {
+    margin: 20px auto;
+    width: 400px;
+    height: 250px;
+    background-image: url('../Images/states/default.jpg');
+    background-size: cover;
+    border: 3px solid black;
+  }
+
+  label {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  input[type="text"] {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    width: 200px;
+  }
+
+  input[type="button"] {
+    display: block;
+    margin: 20px auto;
+    font-size: 20px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  input[type="button"]:hover {
+    background-color: #0069d9;
+  }

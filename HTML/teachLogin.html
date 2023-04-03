@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+<!-- This is the login in page for the teacher with a super secret password -->
+<script src="../Javascript/teachlogin.js" type="text/javascript"></script>    
+<link rel="stylesheet" href="../CSS/teachLogin.css" type="text/css">
+</head>
+    <body onload="x()">
+        <table>
+            <tr>
+              <td>
+                <label for="user">Username:  </label>
+                <input name="user" type="text" id="user" onchange="checkInput()">
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label name="pass">Password: </label>
+                <input name="pass"type="password" id="pass" onchange="checkInput()" />
+              </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="Login!" id="btn" onclick="nextPage()">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Username
+                </td>
+                <td>
+                    Teacher
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password
+                </td>
+                <td>
+                    Password
+                </td>
+            </tr>
+          </table>
+    </body>
+</html>

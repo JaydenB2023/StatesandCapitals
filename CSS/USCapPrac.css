@@ -1,0 +1,49 @@
+.name{
+    font-size: xx-large;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+    text-align: center;
+  }
+  #statePic {
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: #eee;
+    border: 1px solid #ccc;
+  }
+  #stateName {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+  }
+  label {
+    font-size: 1.2em;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
+  input[type="text"] {
+    font-size: 1.2em;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+  }
+  input[type="button"] {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto 0;
+  }

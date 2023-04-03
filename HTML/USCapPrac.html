@@ -1,0 +1,21 @@
+<!-- This will be a page that will take a JSON array and ask the student the capitol of the following state -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="../CSS/USCapPrac.css" type="text/css">
+    <script src="../Javascript/capPrac.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+    <h1>Guess the Capital</h1>
+    <div id="statePic"></div>
+    <br/>
+    <div id="stateName" class ="name"></div> 
+    <!-- The stateName div tag goes away ...Why? -->
+    <br/>
+    <label for="capIn">Enter State Capital</label>
+    <!-- <input type="text" value="" id="capIn" onchange="gotRight(value)"> -->
+    <input type="text" id="capIn"/>
+    <input type="button" value="Next State" onclick="gotRight(document.getElementById('capIn').value)">
+  </body>
+</html>

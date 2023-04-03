@@ -1,0 +1,154 @@
+[{
+    "STATE": "Alabama", "CAPITAL": "Montgomery"
+    
+},
+{
+    "STATE":"Alaska", "CAPITAL" :"Juneau"
+},
+{
+    "STATE":"Arizona", "CAPITAL": "Pheonix"
+},
+{
+    "STATE":"Arkansas" , "CAPITAL" :"Little Rock"
+}, 
+{
+    "STATE":"California", "CAPITAL" :"Sacramento"
+},
+{
+    "STATE":"Colorado", "CAPITAL" :"Denver"
+
+},
+{
+    "STATE": "Connecticut", "CAPITAL" :"Hartford"
+},
+{
+"STATE":"Delaware", "CAPITAL" :"Dover"
+},
+{
+    "STATE": "Florida", "CAPITAL" :"Tallahassee"
+},
+{
+    "STATE": "Georgia", "CAPITAL" :"Atlanta"
+}, 
+{
+    "STATE": "Hawaii", "CAPITAL" :"Honolulu"
+},
+{
+    "STATE": "Idaho", "CAPITAL" :"Boise"
+},
+{
+    "STATE": "Illinois", "CAPITAL" :"Springfield"
+},
+{
+    "STATE": "Indiana", "CAPITAL" :"Indianapolis"
+},
+{
+    "STATE": "Iowa", "CAPITAL" :"Des Moines"
+},
+{
+    "STATE": "Kansas", "CAPITAL" :"Topeka"
+},
+{
+    "STATE": "Kentucky", "CAPITAL" :"Frankfort"
+},
+{
+    "STATE": "Louisiana", "CAPITAL" :"Baton Rouge"
+},
+{
+    "STATE": "Maine", "CAPITAL" :"Augusta"
+},
+{
+    "STATE": "Maryland", "CAPITAL" :"Annapolis"
+},
+{
+    "STATE": "Massachusetts", "CAPITAL" :"Boston"
+},
+{
+    "STATE": "Michigan", "CAPITAL" :"Lansing"
+},
+{
+    "STATE": "Minnesota", "CAPITAL" :"Saint Paul"
+},
+{
+    "STATE": "Mississippi", "CAPITAL" :"Jackson"
+},
+{
+    "STATE": "Missouri", "CAPITAL" :"Jefferson City"
+},
+{
+    "STATE": "Montana", "CAPITAL" :"Helena"
+},
+{
+    "STATE" :"Nebraska", "CAPITAL" :"Lincoln"
+},
+{
+    "STATE": "Nevada", "CAPITAL" :"Carson City"
+},
+{
+    "STATE": "New Hampshire", "CAPITAL" :"Concord"
+},
+{
+    "STATE":"New Jersey", "CAPITAL" :"Trenton"
+},
+{
+    "STATE":"New Mexico", "CAPITAL" :"Santa Fe"
+},
+{
+"STATE":"New York", "CAPITAL" :"Albany"
+},
+{
+    "STATE": "North Carolina", "CAPITAL" :"Raleigh"
+},
+{
+    "STATE": "North Dakota", "CAPITAL" :"Bismarck"
+},
+{
+    "STATE": "Ohio", "CAPITAL" :"Columbus"
+},
+{
+    "STATE": "Oklahoma", "CAPITAL" :"Oklahoma City"
+},
+{
+"STATE":"Oregon", "CAPITAL" :"Salem"
+},
+{
+    "STATE":"Pennsylvania", "CAPITAL" :"Harrisburg"
+},
+{
+    "STATE": "Rhode Island", "CAPITAL" :"Providence"
+},
+{
+    "STATE":"South Carolina", "CAPITAL" :"Columbia"
+},
+{
+    "STATE": "South Dakota", "CAPITAL" :"Pierre"
+},
+{
+    "STATE":"Tennessee", "CAPITAL" :"Nashville"
+},
+{
+    "STATE":"Texas", "CAPITAL" :"Austin"
+},
+{
+    "STATE":"Utah", "CAPITAL" :"Salt Lake City"
+},
+{
+    "STATE":"Vermont", "CAPITAL" :"Montpilier"
+},
+{
+    "STATE":"Virginia", "CAPITAL" :"Richmond"
+},
+{
+    "STATE":"Washington", "CAPITAL" :"Olympia"
+},
+{
+    "STATE":"West Virginia", "CAPITAL" :"Charleston"
+},
+{
+    "STATE":"Wisconsin", "CAPITAL" :"Madison"
+},
+{
+    "STATE":"Wyoming", "CAPITAL" :"Cheyenne"
+}
+
+]

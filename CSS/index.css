@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:  #b07a7a;
+  }
+  img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+  }
+  area:hover {
+    opacity: 0.8;
+  }

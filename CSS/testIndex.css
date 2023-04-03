@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+  /* Style the unordered list */
+  ul {
+    list-style: none; /* Remove default bullet points */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */ 
+    justify-content: space-evenly;
+    display: flex;
+}
+
+/* Style the list items */
+li {
+    display: inline-block; /* Display the items in a row */
+   
+}
+
+/* Style the links */
+a {
+    display: block; /* Make the links take up the full width of the list item */
+    padding: 10px; /* Add padding to create some space around the links */
+    text-decoration: none; /* Remove the underline */
+    color: #333; /* Set the link color */
+    font-weight: bold; /* Make the links bold */
+}
+
+/* Style the links when hovered */
+a:hover {
+    background-color: #333; /* Change the background color */
+    color: #fff; /* Change the text color */
+}

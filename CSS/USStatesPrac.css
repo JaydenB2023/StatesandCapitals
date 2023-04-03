@@ -1,0 +1,51 @@
+
+   .pointer {cursor: pointer;}
+   /* Styles for the header element */
+header {
+  background-color:  #b07a7a;
+  color: #fff;
+  padding: 10px;
+}
+
+/* Styles for the h1 element */
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+/* Styles for the main element */
+main {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+/* Styles for the map element */
+#usMap {
+  cursor: pointer;
+  outline: none;
+}
+
+/* Styles for the area elements */
+area {
+  outline: none;
+}
+
+/* Styles for the center div */
+.centerDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styles for the state pic div */
+#statePic {
+  height: 150px;
+  margin-bottom: 10px;
+  width: 150px;
+}
+
+
+
+
+
